@@ -18,7 +18,7 @@ from getting a PC at age of 10, in mostly chronological order i've tinkered with
 - go
 - centos, asterisk
 - more java, now with antlr
-- html5, js, vue
-a lot more things that i have occasional or recreational knowledge of, which would just take forever to list
+- html5, js, vue  
+- a lot more things that i have occasional or recreational knowledge of, but would just take forever to list
 
 he/him
