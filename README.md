@@ -7,7 +7,9 @@
 - truth is non-negotiable
 - embrace chaos
 
-from getting a PC at age of 10, in mostly chronological order i've tinkered with:
+wasting my time with computer is my main hobby since getting a PC at the age of 10
+apart from dozens of obscure technologies that have shortly captured my attention,
+i've tinkered with, in chonological order:
 - xhtml, css
 - php, wordpress
 - c#, xna 3
@@ -19,6 +21,7 @@ from getting a PC at age of 10, in mostly chronological order i've tinkered with
 - centos, asterisk
 - more java, now with antlr
 - html5, js, vue  
-- a lot more things that i have occasional or recreational knowledge of, but would just take forever to list
+
+@reoseah everywhere
 
 he/him
