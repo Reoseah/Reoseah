@@ -1,11 +1,10 @@
 ### about me
 
-- typical introvert
 - true/chaotic neutral
 - intp, 5w4, spaghetti with meatballs according to buzzfeed
 - black is the best color
 - truth is non-negotiable
-- embrace chaos
+- coordination of a drunken baboon
 
 wasting my time with computer is my main hobby since getting a PC at the age of 10  
 apart from dozens of obscure technologies that have shortly captured my attention,  
